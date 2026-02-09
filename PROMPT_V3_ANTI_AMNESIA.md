@@ -1541,28 +1541,3 @@ Todo proyecto de grado debe alinearse con al menos una línea de investigación 
 | Interlineado | Doble espacio |
 | Alineación | Justificado |
 | Voz de redacción | Tercera persona impersonal |
-
-### B. MÁRGENES Y PÁGINA
-| Elemento | Especificación |
-|----------|---------------|
-| Margen superior | 2.54 cm (1 pulgada) |
-| Margen inferior | 2.54 cm (1 pulgada) |
-| Margen izquierdo | 2.54 cm (1 pulgada) |
-| Margen derecho | 2.54 cm (1 pulgada) |
-| Numeración de páginas | Números arábigos, esquina inferior derecha |
-| Encabezado | Máximo 50 caracteres |
-
-### C. PRESENTACIÓN FINAL (Empastado)
-| Elemento | Especificación |
-|----------|---------------|
-| Color de empastado | Azul |
-| Letras del empastado | Doradas, fuente ARIAL 14 |
-| Contenido de la tapa | Título del proyecto, nombres de autores, institución, programa, año |
-
-### D. PORTADA INSTITUCIONAL
-- Logo institucional
-- Nombre completo: **INSTITUCIÓN UNIVERSITARIA DE COLOMBIA**
-- Título del proyecto
-- Nombre(s) completo(s) del/los autor(es)
-- Programa académico
-- Ciudad y año
